@@ -60,10 +60,10 @@ Mr. Leung, Dao name Sanming, is an ordained Daoist priest (overseas) of the Zhen
 ✅ **Fully Open Source**: All content is free and open. Contributions of cases, multilingual translations, and joint improvement of the framework are welcome.
 
 ## 🤝 交流与反馈 | Communication & Feedback
-- 国内用户：添加微信 [预留位置] 加入交流群
+- 国内用户：添加微信: xgsanye / 加入交流群: [预留位置]
 - 海外用户：加入Discord频道 [预留位置]
 - 问题反馈：直接提交Issue即可
-- For Chinese users: Add WeChat [Reserved] to join the group
+- For Chinese users: Add WeChat : xgsanye / to join the group : [Reserved]
 - For international users: Join our Discord channel [Reserved]
 - Feedback: Submit an Issue directly
 
